@@ -4,7 +4,7 @@ Hi 👋 My name is Ismail
 Junior Full-Stack Web developper
 --------------------------------
 
-I have completed my degree in computer science and I have been coding for a year.
+I have completed my degree in computer science and I have been coding for almost a year now.
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [mayel.dev@gmail.com](mailto:mayel.dev@gmail.com)
