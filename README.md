@@ -6,7 +6,7 @@ Junior Full-Stack Web developper
 
 I have completed my degree in computer science and I have been coding for almost a year now.
 
-* 🌍  I'm based in Tunisia
+* 🌍  I'm based in France
 * ✉️  You can contact me at [mayel.dev@gmail.com](mailto:mayel.dev@gmail.com)
 * 🤝  I'm open to collaborating on mern stack projects
 
