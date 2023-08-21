@@ -1,7 +1,5 @@
-<h1 align="center">Yo 👋, I'm Ismael</h1>
+<h1 align="center">Yo 👋, I'm Ismaël</h1>
 <h3 align="center">A Full-Stack Web developer based in France</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrismail1" alt="mrismail1" /></a> </p>
 
 - 🌱 I’m currently learning **Vue, Symphony and Laravel**
 
