@@ -2,11 +2,11 @@
 <h3 align="center">A junior Full-Stack Web developer based in France</h3>
 
 
-- 🌱 I’m currently learning **Vue, Symphony and Laravel**
+- 🌱 I’m currently learning **Symphony**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 📫 How to reach me **mayel.dev@gmail.com**
+- 📫 How to reach me **ismail.mrabet1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
