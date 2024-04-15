@@ -2,7 +2,7 @@
 <h3 align="center">A junior Full-Stack Web developer based in France</h3>
 
 
-- 🌱 I’m currently learning **Symphony**
+- 🌱 I’m currently learning **VueJs**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
