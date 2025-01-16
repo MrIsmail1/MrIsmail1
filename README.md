@@ -1,10 +1,10 @@
 <h1 align="center">Yo 👋, I'm Ismaël</h1>
-<h3 align="center">A junior Full-Stack Web developer based in France</h3>
+<h3 align="center">Full-Stack Web developer based in France</h3>
 
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack Js Projects**
 
 - 📫 How to reach me **ismail.mrabet1@gmail.com**
 
