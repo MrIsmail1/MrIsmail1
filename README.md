@@ -2,11 +2,11 @@
 <h3 align="center">Full-Stack Web developer based in France</h3>
 
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently working on **Headless Shopify With NextJs**
 
-- 👯 I’m looking to collaborate on **Full Stack Js Projects**
+- 👯 I’m looking to collaborate on **Headless Shopify Projects**
 
-- 📫 How to reach me **ismail.mrabet1@gmail.com**
+- 📫 How to reach me **ismail@ismailmrabet.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
